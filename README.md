@@ -1,4 +1,5 @@
 # Google Sponsor and AI overview remover
+![Github All Releases](https://img.shields.io/github/downloads/Maho-Yoshino/GoogleSponsorRemover/total.svg)]()
 ## Reason for development
 This is a personal project, which was made due to my frustration, with Google's search engine, and their SEO bs.  
 Why is it that i must see 8 sponsored links to get to actual content? Well now I (and possibly you!) won't have to!
