@@ -1,0 +1,28 @@
+{
+	"name":"Google Sponsor remover",
+	"description":"Removes the sponsored links from google",
+	"version":"1.0",
+	"manifest_version": 3,
+	"permissions": [
+		"activeTab",
+		"storage",
+		"search"
+	],
+	"action" : {
+		"default_popup": "popup.html"
+	},
+	"content_scripts": [
+		{
+			"js":[
+				"scripts/RemoveAds.js"
+			],
+			"matches": [
+				"*://*.google.com/search*"
+			],
+			"run_at": "document_end"
+		}
+	],
+	"host_permissions": [
+		"*://*.google.com/*"
+	]
+}
