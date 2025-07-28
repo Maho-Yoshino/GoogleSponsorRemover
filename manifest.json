@@ -1,6 +1,6 @@
 {
-	"name":"Google Sponsor remover",
-	"description":"Removes the sponsored links from google",
+	"name":"Google Sponsor and AI overview remover",
+	"description":"Removes the sponsored links, shopping section and optionally AI overview from google search results",
 	"version":"1.0",
 	"manifest_version": 3,
 	"permissions": [
