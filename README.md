@@ -5,7 +5,7 @@ Why is it that i must see 8 sponsored links to get to actual content? Well now I
 
 Due to this, the extension is mainly built around removing (practically removing, technically just hiding) sponsored links and sponsored shopping sections in your Google searches.
 ## Installation
-1. To go the [latest release](https://github.com/Maho-Yoshino/GoogleSponsorRemover/releases/latest) and download the source code (they serve the same purpose)
+1. To go the [latest release](https://github.com/Maho-Yoshino/GoogleSponsorRemover/releases/latest) and download the source code
 2. Unpack the folder to somewhere on your computer
 3. Go to your browser's Extensions page
 4. Enable Developer mode
