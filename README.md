@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project has been abandoned due to no longer using Chromium based browsers, and no longer using Google
+
 # Google Sponsor and AI overview remover
 ![Github All Releases](https://img.shields.io/github/downloads/Maho-Yoshino/GoogleSponsorRemover/total.svg)
 ## Reason for development
